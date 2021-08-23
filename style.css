@@ -1,0 +1,25 @@
+.container-fluid {
+    display: flex;
+    justify-content: space-between;
+}
+.main {
+    text-align: center;
+}
+.main .tblsearch{
+    margin: 0 auto;
+}
+
+.tblinfor {
+    border: 1px solid red;
+}
+
+body a.btnLogin {
+    position: absolute;
+    top: .5rem;
+    right: 0;
+}
+
+fieldset {
+    max-width: 60%;
+    margin: 1rem auto;
+}
